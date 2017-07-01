@@ -100,3 +100,5 @@ locationButton.on('click', function () {
     alert('Unable to fetch location.');
   });
 });
+
+
